@@ -16,3 +16,5 @@ Jakub Kumšta
 ## Změna provedená přímo na GitHubu 
 Datum a čas proveddení změny: 2024-10-03; 13:14
 Jakub Kumšta
+
+## Změna na pc v githubu
