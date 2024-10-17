@@ -12,3 +12,4 @@ C:\aaa\IS-2024\github-jk-is-2024-sk2\IS-projekty\obj\Debug\net7.0\refint\IS-proj
 C:\aaa\IS-2024\github-jk-is-2024-sk2\IS-projekty\obj\Debug\net7.0\IS-projekty.pdb
 C:\aaa\IS-2024\github-jk-is-2024-sk2\IS-projekty\obj\Debug\net7.0\IS-projekty.genruntimeconfig.cache
 C:\aaa\IS-2024\github-jk-is-2024-sk2\IS-projekty\obj\Debug\net7.0\ref\IS-projekty.dll
+c:\aaa\IS-2024\github-jk-is-2024-sk2\IS-projekty\obj\Debug\net7.0\IS-projekty.sourcelink.json

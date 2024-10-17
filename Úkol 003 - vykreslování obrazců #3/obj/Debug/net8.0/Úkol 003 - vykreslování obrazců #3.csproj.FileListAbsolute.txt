@@ -1,0 +1,15 @@
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.AssemblyInfoInputs.cache
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.AssemblyInfo.cs
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.csproj.CoreCompileInputs.cache
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.sourcelink.json
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\bin\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.exe
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\bin\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.deps.json
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\bin\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.runtimeconfig.json
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\bin\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.dll
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\bin\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.pdb
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.dll
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\refint\Úkol 003 - vykreslování obrazců #3.dll
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.pdb
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\Úkol 003 - vykreslování obrazců #3.genruntimeconfig.cache
+c:\aaa\IS-2024\github-jk-is-2024-sk2\Úkol 003 - vykreslování obrazců #3\obj\Debug\net8.0\ref\Úkol 003 - vykreslování obrazců #3.dll
